@@ -1,12 +1,5 @@
-# ![MyDrive Homepage](github_images/homepage.png)
-
-# MyDrive
-
-MyDrive is an Open Source cloud file storage server (Similar To Google Drive). Host myDrive on your own server or trusted platform and then access myDrive through your web browser. MyDrive uses mongoDB to store file/folder metadata, and supports multiple databases to store the file chunks, such as Amazon S3, the Filesystem, or just MongoDB. MyDrive is built using Node.js, and Typescript. The service now even supports Docker images! 
-
-[Main myDrive website](https://mydrive-storage.com/)
-
-Go to the main myDrive website for more infomation, screenshots, and more.
+# charlDrive
+mydrive but i edited it
 
 ## Index
 
